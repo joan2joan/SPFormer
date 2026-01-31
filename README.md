@@ -1,6 +1,6 @@
 # SPFormer: Superpixel-Perceptive Transformer for Infrared Small Target Detection
 
-![](imgs/overall.pdf)
+![](imgs/overall.jpg)
 
 ## Dataset Preparation
 ### File Structure
